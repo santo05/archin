@@ -1,0 +1,2 @@
+# archin
+install arch linux
